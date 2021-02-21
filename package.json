@@ -23,6 +23,6 @@
     "cherio": "^1.0.0-rc.2",
     "express": "^4.17.1",
     "mongojs": "^2.6.0",
-    "mongoose": "^5.6.0"
+    "mongoose": "^5.7.5"
   }
 }
